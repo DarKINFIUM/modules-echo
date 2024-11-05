@@ -1,6 +1,6 @@
 # Modules Echo
 
-Echo module for test purpose
+Echo module for test purpose and preparation for PMI
 
 
 
